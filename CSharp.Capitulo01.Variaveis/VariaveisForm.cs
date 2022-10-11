@@ -10,8 +10,18 @@ using System.Windows.Forms;
 
 namespace CSharp.Capitulo01.Variaveis
 {
+    
     public partial class VariaveisForm : Form
+    //class é um agrupador de métodos
+    // quando as variaves estão dentro do método ele ficara var
+    // criada no nível da classe será chamada field ai tem que trocar para int
     {
+
+        int x = 32;
+        int y = 16;
+        int w = 45;
+        int z = 32;
+
         public VariaveisForm()
         {
             InitializeComponent();
@@ -49,8 +59,96 @@ namespace CSharp.Capitulo01.Variaveis
             // outra forma de fazer concatenação ! usando o String.Concat() 
             //cstr() converter para string
             resultadoListBox.Items.Add(string.Concat("b = ",b));
-            resultadoListBox.Items.Add(string.Format("c = {0}",c));
-            resultadoListBox.Items.Add();
+            // podemos colocar tudo em mesma linha como abaixo ! com o c  e o d
+            //resultadoListBox.Items.Add(string.Format("c = {0}, d ={1}", c, d));
+            resultadoListBox.Items.Add(string.Format("c = {0}", c));
+            resultadoListBox.Items.Add($"d = {d}");
+
+            resultadoListBox.Items.Add($"c * d = {c * d}");
+            resultadoListBox.Items.Add($"d / a = {d / a}");
+            // o operador modulo % retorna o resto da divisao para saber se e par ou impar
+            resultadoListBox.Items.Add($"d % a = {d % a}");
+        }
+
+        private void reduzidasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            var x = 5;
+            resultadoListBox.Items.Add(string.Concat("x = "+ x));
+
+            //x = x - 3;
+            // temos essa mesma expressão reduzida
+            x -= 3;
+
+            resultadoListBox.Items.Add(string.Concat("x = "+ x ));
+
+
+        }
+
+        private void incrementaisDecrementaisToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+            // incremento e decremento ....
+
+            int a;
+            a = 5;
+            resultadoListBox.Items.Add("Exemplo de pré-incremental");
+            resultadoListBox.Items.Add("a = " + a);
+            resultadoListBox.Items.Add($"2 + ++a = {2 + ++a}");
+            resultadoListBox.Items.Add("a = " + a);
+
+            
+            a = 5;
+            resultadoListBox.Items.Add("Exemplo de pós-incremental");
+            resultadoListBox.Items.Add("a = " + a);
+            resultadoListBox.Items.Add($"2 + a++ = {2 + a++}");
+            resultadoListBox.Items.Add("a = " + a);
+        }
+
+        private void booleanasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            // declarando variáveis
+            //resultadoListBox.Items.Add("-----------------------------------------------");
+            //resultadoListBox.Items.Add("Variáveis Declaradas");
+            //resultadoListBox.Items.Add("-----------------------------------------------");
+
+            // Imprimindo na tela
+            resultadoListBox.Items.Add("-----------------------------------------------");
+            resultadoListBox.Items.Add("Os Valores de cada Variável");
+            resultadoListBox.Items.Add("-----------------------------------------------");
+            ExibirValores();
+            resultadoListBox.Items.Add(" ");
+            // Fazendo a comparação !
+            // Menor ou Igual
+            resultadoListBox.Items.Add("---------------------------------------------------------------");
+            resultadoListBox.Items.Add("Comparando se w e maior ou igual a x");
+            resultadoListBox.Items.Add("---------------------------------------------------------------");
+            resultadoListBox.Items.Add($" w <= x = {w <= x}");
+            resultadoListBox.Items.Add(" ");
+            //x é igual a z
+            resultadoListBox.Items.Add("-----------------------------------------------");
+            resultadoListBox.Items.Add("Comparando sex é igual a z");
+            resultadoListBox.Items.Add("-----------------------------------------------");
+            resultadoListBox.Items.Add($" x == z = {x == z}");
+            resultadoListBox.Items.Add(" ");
+            // x é diferente de z
+            resultadoListBox.Items.Add("-----------------------------------------------------");
+            resultadoListBox.Items.Add("Comparando se x é diferente de z");
+            resultadoListBox.Items.Add("-----------------------------------------------------");
+            resultadoListBox.Items.Add($" x != z = {x != z}");
+            resultadoListBox.Items.Add(" ");
+        }
+
+        private void ExibirValores()
+        {
+            resultadoListBox.Items.Add("x = " + x);
+            resultadoListBox.Items.Add("y = " + y);
+            resultadoListBox.Items.Add("w = " + w);
+            resultadoListBox.Items.Add("z = " + z);
+        }
+
+        private void logicaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+    
         }
     }
 }
