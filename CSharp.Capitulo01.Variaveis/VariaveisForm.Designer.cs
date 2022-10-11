@@ -34,10 +34,11 @@ namespace CSharp.Capitulo01.Variaveis
             this.operaçõesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.aritmeticasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.reduzidasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.resultadoListBox = new System.Windows.Forms.ListBox();
             this.incrementaisDecrementaisToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.booleanasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.logicaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.resultadoListBox = new System.Windows.Forms.ListBox();
+            this.ternariasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -60,7 +61,8 @@ namespace CSharp.Capitulo01.Variaveis
             this.reduzidasToolStripMenuItem,
             this.incrementaisDecrementaisToolStripMenuItem,
             this.booleanasToolStripMenuItem,
-            this.logicaToolStripMenuItem});
+            this.logicaToolStripMenuItem,
+            this.ternariasToolStripMenuItem});
             this.operaçõesToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("operaçõesToolStripMenuItem.Image")));
             this.operaçõesToolStripMenuItem.Name = "operaçõesToolStripMenuItem";
             this.operaçõesToolStripMenuItem.Size = new System.Drawing.Size(95, 24);
@@ -81,15 +83,6 @@ namespace CSharp.Capitulo01.Variaveis
             this.reduzidasToolStripMenuItem.Size = new System.Drawing.Size(223, 26);
             this.reduzidasToolStripMenuItem.Text = "Reduzidas";
             this.reduzidasToolStripMenuItem.Click += new System.EventHandler(this.reduzidasToolStripMenuItem_Click);
-            // 
-            // resultadoListBox
-            // 
-            this.resultadoListBox.FormattingEnabled = true;
-            this.resultadoListBox.Location = new System.Drawing.Point(9, 25);
-            this.resultadoListBox.Margin = new System.Windows.Forms.Padding(2);
-            this.resultadoListBox.Name = "resultadoListBox";
-            this.resultadoListBox.Size = new System.Drawing.Size(769, 524);
-            this.resultadoListBox.TabIndex = 1;
             // 
             // incrementaisDecrementaisToolStripMenuItem
             // 
@@ -114,6 +107,23 @@ namespace CSharp.Capitulo01.Variaveis
             this.logicaToolStripMenuItem.Size = new System.Drawing.Size(223, 26);
             this.logicaToolStripMenuItem.Text = "Lógica";
             this.logicaToolStripMenuItem.Click += new System.EventHandler(this.logicaToolStripMenuItem_Click);
+            // 
+            // resultadoListBox
+            // 
+            this.resultadoListBox.FormattingEnabled = true;
+            this.resultadoListBox.Location = new System.Drawing.Point(9, 25);
+            this.resultadoListBox.Margin = new System.Windows.Forms.Padding(2);
+            this.resultadoListBox.Name = "resultadoListBox";
+            this.resultadoListBox.Size = new System.Drawing.Size(769, 524);
+            this.resultadoListBox.TabIndex = 1;
+            // 
+            // ternariasToolStripMenuItem
+            // 
+            this.ternariasToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("ternariasToolStripMenuItem.Image")));
+            this.ternariasToolStripMenuItem.Name = "ternariasToolStripMenuItem";
+            this.ternariasToolStripMenuItem.Size = new System.Drawing.Size(223, 26);
+            this.ternariasToolStripMenuItem.Text = "Ternárias";
+            this.ternariasToolStripMenuItem.Click += new System.EventHandler(this.ternariasToolStripMenuItem_Click);
             // 
             // VariaveisForm
             // 
@@ -144,6 +154,7 @@ namespace CSharp.Capitulo01.Variaveis
         private System.Windows.Forms.ToolStripMenuItem incrementaisDecrementaisToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem booleanasToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem logicaToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem ternariasToolStripMenuItem;
     }
 }
 
