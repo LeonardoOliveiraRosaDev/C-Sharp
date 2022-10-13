@@ -1,0 +1,16 @@
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\CSharp.Capitulo02.GeradorSenha\bin\Debug\net5.0\CSharp.Capitulo02.GeradorSenha.exe
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\CSharp.Capitulo02.GeradorSenha\bin\Debug\net5.0\CSharp.Capitulo02.GeradorSenha.deps.json
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\CSharp.Capitulo02.GeradorSenha\bin\Debug\net5.0\CSharp.Capitulo02.GeradorSenha.runtimeconfig.json
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\CSharp.Capitulo02.GeradorSenha\bin\Debug\net5.0\CSharp.Capitulo02.GeradorSenha.runtimeconfig.dev.json
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\CSharp.Capitulo02.GeradorSenha\bin\Debug\net5.0\CSharp.Capitulo02.GeradorSenha.dll
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\CSharp.Capitulo02.GeradorSenha\bin\Debug\net5.0\ref\CSharp.Capitulo02.GeradorSenha.dll
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\CSharp.Capitulo02.GeradorSenha\bin\Debug\net5.0\CSharp.Capitulo02.GeradorSenha.pdb
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\CSharp.Capitulo02.GeradorSenha\obj\Debug\net5.0\CSharp.Capitulo02.GeradorSenha.csproj.AssemblyReference.cache
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\CSharp.Capitulo02.GeradorSenha\obj\Debug\net5.0\CSharp.Capitulo02.GeradorSenha.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\CSharp.Capitulo02.GeradorSenha\obj\Debug\net5.0\CSharp.Capitulo02.GeradorSenha.AssemblyInfoInputs.cache
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\CSharp.Capitulo02.GeradorSenha\obj\Debug\net5.0\CSharp.Capitulo02.GeradorSenha.AssemblyInfo.cs
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\CSharp.Capitulo02.GeradorSenha\obj\Debug\net5.0\CSharp.Capitulo02.GeradorSenha.csproj.CoreCompileInputs.cache
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\CSharp.Capitulo02.GeradorSenha\obj\Debug\net5.0\CSharp.Capitulo02.GeradorSenha.dll
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\CSharp.Capitulo02.GeradorSenha\obj\Debug\net5.0\ref\CSharp.Capitulo02.GeradorSenha.dll
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\CSharp.Capitulo02.GeradorSenha\obj\Debug\net5.0\CSharp.Capitulo02.GeradorSenha.pdb
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\CSharp.Capitulo02.GeradorSenha\obj\Debug\net5.0\CSharp.Capitulo02.GeradorSenha.genruntimeconfig.cache

@@ -17,10 +17,13 @@ namespace CSharp.Capitulo02.GeradorSenha
             }
             var senha = "";
             var randomico = new Random();
-            for (int i = 0; i < length; i++)
+            for (int i = 0; i < quantidadeDigitos; i++)
             {
+                var algarismo = randomico.Next(10);
 
+                senha = senha + algarismo;
             }
+            Console.WriteLine($"Senha gerada: {senha}");
         }
     }
 }
