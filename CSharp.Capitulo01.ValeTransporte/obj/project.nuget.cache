@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "THSepaTc0Ciy9mJ0aZqmdtY5TZqwgIXvpCW3IX9jNBj9msGVmNcW28feEUCXGeIj6jxYi6jOoQar9UtqReubTg==",
+  "dgSpecHash": "3EgiY21AwLuZi8VgqEHD3haeHRoddXjksXitvZtb1a6tmZ0ZVnSzkhCgaJMQQw3WBUC7KR7GsJeDJXEyp+rC2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leo_l\\source\\repos\\C-\\CSharp.Capitulo01.ValeTransporte\\CSharp.Capitulo01.ValeTransporte.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\leo_l\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
-    "C:\\Users\\leo_l\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\leo_l\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\leo_l\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\CSharp.Capitulo01.ValeTransporte\\CSharp.Capitulo01.ValeTransporte.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

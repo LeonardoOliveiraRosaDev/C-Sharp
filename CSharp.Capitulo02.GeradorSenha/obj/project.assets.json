@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\CSharp.Capitulo01.ValeTransporte\\CSharp.Capitulo01.ValeTransporte.csproj",
-      "projectName": "CSharp.Capitulo01.ValeTransporte",
-      "projectPath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\CSharp.Capitulo01.ValeTransporte\\CSharp.Capitulo01.ValeTransporte.csproj",
+      "projectUniqueName": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\CSharp.Capitulo02.GeradorSenha\\CSharp.Capitulo02.GeradorSenha.csproj",
+      "projectName": "CSharp.Capitulo02.GeradorSenha",
+      "projectPath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\CSharp.Capitulo02.GeradorSenha\\CSharp.Capitulo02.GeradorSenha.csproj",
       "packagesPath": "C:\\Users\\leo_l\\.nuget\\packages\\",
-      "outputPath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\CSharp.Capitulo01.ValeTransporte\\obj\\",
+      "outputPath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\CSharp.Capitulo02.GeradorSenha\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leo_l\\AppData\\Roaming\\NuGet\\NuGet.Config",
