@@ -39,6 +39,11 @@ namespace CSharp.Capitulo02.EstruturasControle.Testes
             var resultadoFinal = string.Empty;
             switch (notaFinal)
             {
+                // case -1:
+                // resultadoFinal = "Erro"
+                // break;
+                //case 0:
+                //case 1:
                 case < 3:
                    resultadoFinal = "Reprovado";
                     break;
@@ -47,8 +52,39 @@ namespace CSharp.Capitulo02.EstruturasControle.Testes
                     break;
 
                 default:
+                    resultadoFinal = "Aprovado";
                     break;
             }
+            Assert.AreEqual(resultadoFinal, "Recuperação");
+        }
+        [TestMethod]
+        public void AvaliacaoFinalRecuperacao49Teste()
+        {
+            var notaFinal = 4.9;
+            var resultadoFinal = string.Empty;
+
+            resultadoFinal = notaFinal switch
+            {
+                < 3 => "Reprovado",
+                >= 3 and < 5 => "Recuperação",
+                _=> "Aprovado"
+            };
+            Assert.AreEqual(resultadoFinal, "Recuperação");
+        }
+        [TestMethod]
+        [DataRow(2.9,"Reprovado")]
+        [DataRow(3.0,"Recuperação")]
+        [DataRow(4.9,"Recuperação")]
+        [DataRow(5.0,"Aprovado")]
+        public void AvaliacaoFinalTeste(double notaFinal, string resultadoEsperado)
+        {
+            var resultadoFinal = notaFinal switch
+            {
+                < 3 => "Reprovado",
+                >= 3 and < 5 => "Recuperação",
+                _ => "Aprovado"
+            };
+            Assert.AreEqual(resultadoFinal, resultadoEsperado);
         }
     }
 }
