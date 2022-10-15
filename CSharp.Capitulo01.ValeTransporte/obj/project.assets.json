@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\CSharp.Capitulo01.ValeTransporte\\CSharp.Capitulo01.ValeTransporte.csproj",
+      "projectUniqueName": "D:\\Curso Impacta\\C-\\CSharp.Capitulo01.ValeTransporte\\CSharp.Capitulo01.ValeTransporte.csproj",
       "projectName": "CSharp.Capitulo01.ValeTransporte",
-      "projectPath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\CSharp.Capitulo01.ValeTransporte\\CSharp.Capitulo01.ValeTransporte.csproj",
+      "projectPath": "D:\\Curso Impacta\\C-\\CSharp.Capitulo01.ValeTransporte\\CSharp.Capitulo01.ValeTransporte.csproj",
       "packagesPath": "C:\\Users\\leo_l\\.nuget\\packages\\",
-      "outputPath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\CSharp.Capitulo01.ValeTransporte\\obj\\",
+      "outputPath": "D:\\Curso Impacta\\C-\\CSharp.Capitulo01.ValeTransporte\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leo_l\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,6 +55,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.17, 5.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

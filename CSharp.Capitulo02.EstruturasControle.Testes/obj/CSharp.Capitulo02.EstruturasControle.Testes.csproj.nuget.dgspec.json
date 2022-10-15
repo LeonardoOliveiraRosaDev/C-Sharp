@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\CSharp.Capitulo02.EstruturasControle.Testes\\CSharp.Capitulo02.EstruturasControle.Testes.csproj": {}
+    "D:\\Curso Impacta\\C-\\CSharp.Capitulo02.EstruturasControle.Testes\\CSharp.Capitulo02.EstruturasControle.Testes.csproj": {}
   },
   "projects": {
-    "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\CSharp.Capitulo02.EstruturasControle.Testes\\CSharp.Capitulo02.EstruturasControle.Testes.csproj": {
+    "D:\\Curso Impacta\\C-\\CSharp.Capitulo02.EstruturasControle.Testes\\CSharp.Capitulo02.EstruturasControle.Testes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\CSharp.Capitulo02.EstruturasControle.Testes\\CSharp.Capitulo02.EstruturasControle.Testes.csproj",
+        "projectUniqueName": "D:\\Curso Impacta\\C-\\CSharp.Capitulo02.EstruturasControle.Testes\\CSharp.Capitulo02.EstruturasControle.Testes.csproj",
         "projectName": "CSharp.Capitulo02.EstruturasControle.Testes",
-        "projectPath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\CSharp.Capitulo02.EstruturasControle.Testes\\CSharp.Capitulo02.EstruturasControle.Testes.csproj",
+        "projectPath": "D:\\Curso Impacta\\C-\\CSharp.Capitulo02.EstruturasControle.Testes\\CSharp.Capitulo02.EstruturasControle.Testes.csproj",
         "packagesPath": "C:\\Users\\leo_l\\.nuget\\packages\\",
-        "outputPath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\CSharp.Capitulo02.EstruturasControle.Testes\\obj\\",
+        "outputPath": "D:\\Curso Impacta\\C-\\CSharp.Capitulo02.EstruturasControle.Testes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leo_l\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -67,6 +67,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

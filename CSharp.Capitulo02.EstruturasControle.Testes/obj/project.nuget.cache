@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9jruV3duU2di7NdgzQyaTC7s9rj0BYgD21UmBlhJwexH4tP5Wv2RLy+Re0UgQYHY/IhUKFg7AjSC37frEfOF4Q==",
+  "dgSpecHash": "v6PYg0/QZFfPIcEfNfo0cVSXT1nwVJIWw5HCq/aYkfForZT+7tA7SjytuDFfvzjtebyBpc+u2xSWUAhNWj/d9A==",
   "success": true,
-  "projectFilePath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\CSharp.Capitulo02.EstruturasControle.Testes\\CSharp.Capitulo02.EstruturasControle.Testes.csproj",
+  "projectFilePath": "D:\\Curso Impacta\\C-\\CSharp.Capitulo02.EstruturasControle.Testes\\CSharp.Capitulo02.EstruturasControle.Testes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leo_l\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\leo_l\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
@@ -91,7 +91,10 @@
     "C:\\Users\\leo_l\\.nuget\\packages\\system.threading.tasks.extensions\\4.3.0\\system.threading.tasks.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\leo_l\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\leo_l\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\leo_l\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\leo_l\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\leo_l\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\leo_l\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\leo_l\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

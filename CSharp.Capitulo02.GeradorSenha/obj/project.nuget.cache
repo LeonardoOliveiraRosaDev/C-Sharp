@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "MhP8IRlwP6fbearWlyGyLY92PsiiCfGTUm2BNcOchKi/aQi2G3hMydP9p+2W+6noHnzImk/1QqchJL1S36BwRA==",
+  "dgSpecHash": "4Q5ZcdImP3q4fHg1/kUziCbd/V8jR+Rv372Rhb3tFptCuIaf3+10STz1dhFlrBwXcw4axZKkTYa5elwL6bSF3A==",
   "success": true,
-  "projectFilePath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\CSharp.Capitulo02.GeradorSenha\\CSharp.Capitulo02.GeradorSenha.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Curso Impacta\\C-\\CSharp.Capitulo02.GeradorSenha\\CSharp.Capitulo02.GeradorSenha.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leo_l\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\leo_l\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\leo_l\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\leo_l\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
