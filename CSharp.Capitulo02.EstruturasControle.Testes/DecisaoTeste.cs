@@ -35,11 +35,17 @@ namespace CSharp.Capitulo02.EstruturasControle.Testes
         [TestMethod]
         public void AvaliacaoFinalRecuperacao3Teste()
         {
-            var notaFinal = 3.1;
+            var notaFinal = 3.0;
             var resultadoFinal = string.Empty;
             switch (notaFinal)
             {
-                case    
+                case < 3:
+                   resultadoFinal = "Reprovado";
+                    break;
+                case >= 3 and < 5:
+                    resultadoFinal = "Recuperação";
+                    break;
+
                 default:
                     break;
             }
