@@ -9,12 +9,14 @@ namespace CSharp.Capitulo08.Colecoes.Teste
         public void InicializacaoTeste()
         {
             //var inteiro = 89;
-            var inteiros = new int[5];
+           int[] inteiros = new int[5];
             inteiros[0] = 14;
             inteiros[1] = 1;
             inteiros[2] = 7;
             inteiros[3] = 0;
             inteiros[4] = -14;
+
+            var decimais = new decimal[] { 0.4m, 0.9m, 4, 7.8m };
         }
     }
 }
