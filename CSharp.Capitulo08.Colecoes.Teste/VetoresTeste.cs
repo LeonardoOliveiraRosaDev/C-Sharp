@@ -16,7 +16,12 @@ namespace CSharp.Capitulo08.Colecoes.Teste
             inteiros[3] = 0;
             inteiros[4] = -14;
 
+            // decimal meuDecimal =8;
             var decimais = new decimal[] { 0.4m, 0.9m, 4m, 7.8m };
+
+            string[] nomes = { "Vitor", "Avelino" };
+
+            var chars = new[] { 'a', 'b', 'c' };
         }
     }
 }
