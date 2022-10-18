@@ -48,7 +48,7 @@ namespace CSharp.Capitulo08.Colecoes.Teste
             var feriados = new Dictionary<DateTime, string>();
             feriados.Add(new DateTime(2022, 11, 18), "Proclamação");
             feriados.Add(new DateTime(2022, 12, 25), "Natal");
-            feriados.Add(new DateTime(2022, 12, 25), "Ano Novo");
+            feriados.Add(new DateTime(2022, 12, 23), "Ano Novo");
         }
     }
 }
