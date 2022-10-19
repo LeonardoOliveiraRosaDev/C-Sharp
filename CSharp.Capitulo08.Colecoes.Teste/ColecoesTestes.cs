@@ -46,9 +46,18 @@ namespace CSharp.Capitulo08.Colecoes.Teste
         public void DictionaryTeste() // hash table tras a habilitadade para trazer o tipo do indice
         {
             var feriados = new Dictionary<DateTime, string>();
-            feriados.Add(new DateTime(2022, 11, 18), "Proclamação");
+            feriados.Add(new DateTime(2022, 11, 15), "Proclamação");
             feriados.Add(new DateTime(2022, 12, 25), "Natal");
-            feriados.Add(new DateTime(2022, 12, 23), "Ano Novo");
+            feriados.Add(new DateTime(2023, 1, 1), "Ano Novo");
+
+            var proclamacao = feriados[new DateTime(2022, 11, 15)];
+
+            foreach (var feriado in feriados)
+            {
+                Console.WriteLine($"{feriado:d}: {feriado.Value}");
+            }
+            Console.WriteLine(feriados.ContainsKey(Convert.ToDateTime("11/11/2022")));
+            Console.WriteLine(feriados.ContainsValue("Natal"));
         }
     }
 }
