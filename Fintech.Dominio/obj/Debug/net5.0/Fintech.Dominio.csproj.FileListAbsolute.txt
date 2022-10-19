@@ -10,3 +10,15 @@ C:\Users\leo_l\Documents\CSharp\CSharp\Fintech.Dominio\obj\Debug\net5.0\Fintech.
 C:\Users\leo_l\Documents\CSharp\CSharp\Fintech.Dominio\obj\Debug\net5.0\Fintech.Dominio.dll
 C:\Users\leo_l\Documents\CSharp\CSharp\Fintech.Dominio\obj\Debug\net5.0\ref\Fintech.Dominio.dll
 C:\Users\leo_l\Documents\CSharp\CSharp\Fintech.Dominio\obj\Debug\net5.0\Fintech.Dominio.pdb
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Dominio\bin\Debug\net5.0\Fintech.Dominio.deps.json
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Dominio\bin\Debug\net5.0\Fintech.Dominio.dll
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Dominio\bin\Debug\net5.0\ref\Fintech.Dominio.dll
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Dominio\bin\Debug\net5.0\Fintech.Dominio.pdb
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Dominio\obj\Debug\net5.0\Fintech.Dominio.csproj.AssemblyReference.cache
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Dominio\obj\Debug\net5.0\Fintech.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Dominio\obj\Debug\net5.0\Fintech.Dominio.AssemblyInfoInputs.cache
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Dominio\obj\Debug\net5.0\Fintech.Dominio.AssemblyInfo.cs
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Dominio\obj\Debug\net5.0\Fintech.Dominio.csproj.CoreCompileInputs.cache
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Dominio\obj\Debug\net5.0\Fintech.Dominio.dll
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Dominio\obj\Debug\net5.0\ref\Fintech.Dominio.dll
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Dominio\obj\Debug\net5.0\Fintech.Dominio.pdb
