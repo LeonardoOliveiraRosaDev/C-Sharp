@@ -21,7 +21,6 @@ D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\CSharp.Capitulo01.V
 D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\CSharp.Capitulo01.ValeTransporte\bin\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.dll
 D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\CSharp.Capitulo01.ValeTransporte\bin\Debug\net5.0\ref\CSharp.Capitulo01.ValeTransporte.dll
 D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\CSharp.Capitulo01.ValeTransporte\bin\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.pdb
-D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.csproj.AssemblyReference.cache
 D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.GeneratedMSBuildEditorConfig.editorconfig
 D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.AssemblyInfoInputs.cache
 D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.AssemblyInfo.cs
