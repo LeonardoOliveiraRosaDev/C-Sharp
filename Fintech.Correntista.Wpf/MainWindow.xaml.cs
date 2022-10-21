@@ -21,6 +21,9 @@ namespace Fintech.Correntista.Wpf
     /// </summary>
     public partial class MainWindow : Window
     {
+        // um campo que existe no nivel da classe chama Field 
+        List<Cliente> clientes = new();
+
         public MainWindow()
         {
             InitializeComponent();
@@ -32,6 +35,7 @@ namespace Fintech.Correntista.Wpf
             sexoComboBox.Items.Add(Sexo.Feminino);
             sexoComboBox.Items.Add(Sexo.Masculino);
             sexoComboBox.Items.Add(Sexo.Outro);
+            clienteDataGrid.ItemsSource = clientes;
         }
 
         private void incluirClienteButton_Click(object sender, RoutedEventArgs e)
@@ -50,6 +54,27 @@ namespace Fintech.Correntista.Wpf
             endereco.Complemento = complementoTextBox.Text;
 
             cliente.EnderecoResidencial = endereco;
+
+            clientes.Add(cliente);
+
+            MessageBox.Show("Cliente cadastrado com sucesso");
+            LimparControleCliente();
+            clienteDataGrid.Items.Refresh();
+            pesquisaClienteTabItem.Focus();
+
+        }
+
+        private void LimparControleCliente()
+        {
+            cpfTextBox.Clear();
+            nomeTextBox.Text = "";
+            dataNascimentoTextBox.Text = null;
+            sexoComboBox.SelectedIndex = -1;
+            logradouroTextBox.Clear();
+            cidadeTextBox.Clear();
+            cepTextBox.Clear();
+            complementoTextBox.Clear();
+            numeroLogradouroTextBox.Clear();
         }
     }
 }

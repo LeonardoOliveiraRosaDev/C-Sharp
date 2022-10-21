@@ -6,7 +6,7 @@ namespace CSharp.Capitulo02.GeradorSenha
     {
         static void Main(string[] args)
         {
-            var quantidadeDigitos = 0;
+            int quantidadeDigitos;
 
             // o bloco que for no do a 1ª vez ele sempre vai fazer 1 pelo menos tudo dependendo do while !
             do
@@ -15,17 +15,9 @@ namespace CSharp.Capitulo02.GeradorSenha
                 quantidadeDigitos = ObterQuantidadeDigitos();
             } while (quantidadeDigitos == 0);
 
+            Senha senha = new Senha(quantidadeDigitos);
 
-
-            var senha = "";
-            var randomico = new Random();
-            for (int i = 0; i < quantidadeDigitos; i++)
-            {
-                var algarismo = randomico.Next(10);
-
-                senha = senha + algarismo;
-            }
-            Console.WriteLine($"Senha gerada: {senha}");
+            Console.WriteLine($"Senha gerada: {senha.Valor}");
         }
 
         private static int ObterQuantidadeDigitos()

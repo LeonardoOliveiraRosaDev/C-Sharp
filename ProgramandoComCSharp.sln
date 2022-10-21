@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fintech.Dominio", "Fintech.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Fintech", "Fintech", "{DA1D9D28-0F00-4325-B4DB-E4C5B6F54E49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fintech.Correntista.Wpf", "Fintech.Correntista.Wpf\Fintech.Correntista.Wpf.csproj", "{A4E6F22C-ADE8-44E1-AC2A-A891CA92B3C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fintech.Correntista.Wpf", "Fintech.Correntista.Wpf\Fintech.Correntista.Wpf.csproj", "{A4E6F22C-ADE8-44E1-AC2A-A891CA92B3C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp.Capitulo02.GeradorSenhaTests", "CSharp.Capitulo02.GeradorSenhaTests\CSharp.Capitulo02.GeradorSenhaTests.csproj", "{E9C9BB4B-8961-410F-9959-13C829E5375C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,6 +55,10 @@ Global
 		{A4E6F22C-ADE8-44E1-AC2A-A891CA92B3C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4E6F22C-ADE8-44E1-AC2A-A891CA92B3C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4E6F22C-ADE8-44E1-AC2A-A891CA92B3C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9C9BB4B-8961-410F-9959-13C829E5375C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9C9BB4B-8961-410F-9959-13C829E5375C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9C9BB4B-8961-410F-9959-13C829E5375C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9C9BB4B-8961-410F-9959-13C829E5375C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
