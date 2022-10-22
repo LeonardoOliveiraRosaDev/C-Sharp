@@ -21,3 +21,4 @@ D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Dominio\obj
 D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Dominio\obj\Debug\net5.0\Fintech.Dominio.dll
 D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Dominio\obj\Debug\net5.0\ref\Fintech.Dominio.dll
 D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Dominio\obj\Debug\net5.0\Fintech.Dominio.pdb
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Dominio\obj\Debug\net5.0\Fintech.Dominio.csproj.AssemblyReference.cache

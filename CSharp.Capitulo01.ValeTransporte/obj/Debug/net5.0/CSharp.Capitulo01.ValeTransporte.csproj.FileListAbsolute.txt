@@ -29,3 +29,4 @@ D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\CSharp.Capitulo01.V
 D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\ref\CSharp.Capitulo01.ValeTransporte.dll
 D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.pdb
 D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.genruntimeconfig.cache
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\CSharp.Capitulo01.ValeTransporte\obj\Debug\net5.0\CSharp.Capitulo01.ValeTransporte.csproj.AssemblyReference.cache
