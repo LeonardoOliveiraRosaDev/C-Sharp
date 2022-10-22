@@ -22,7 +22,11 @@ namespace Fintech.Correntista.Wpf
     public partial class MainWindow : Window
     {
         // um campo que existe no nivel da classe chama Field 
-        List<Cliente> clientes = new();
+        // disponibilizar esses elesmentos para todos os metodos dessa classe
+        // Campos Privados por isso o uso de privates existe apenas dentro dessa classe por isso um field !
+
+        private List<Cliente> clientes = new();
+        private Cliente clienteSelecionado;
 
         public MainWindow()
         {
@@ -35,7 +39,21 @@ namespace Fintech.Correntista.Wpf
             sexoComboBox.Items.Add(Sexo.Feminino);
             sexoComboBox.Items.Add(Sexo.Masculino);
             sexoComboBox.Items.Add(Sexo.Outro);
+
             clienteDataGrid.ItemsSource = clientes;
+
+            tipoContaComboBox.Items.Add(TipoConta.ContaCorrente);
+            tipoContaComboBox.Items.Add(TipoConta.ContaEspecial);
+            tipoContaComboBox.Items.Add(TipoConta.Poupanca);
+
+            Banco banco1 = new Banco();
+            banco1.Nome = "Banco 1";
+            banco1.Numero = 206;
+            bancoComboBox.Items.Add(banco1);
+
+           // mesma forma da instancia de cima porem in line !
+            bancoComboBox.Items.Add(new Banco {Nome = "Banco 2", Numero = 211});
+           
         }
 
         private void incluirClienteButton_Click(object sender, RoutedEventArgs e)
@@ -75,6 +93,36 @@ namespace Fintech.Correntista.Wpf
             cepTextBox.Clear();
             complementoTextBox.Clear();
             numeroLogradouroTextBox.Clear();
+        }
+
+        private void SelecionarClienteButtonClick(object sender, RoutedEventArgs e)
+        {
+            // essa simbologia e um cast (Button)sender;
+            var botaoClicado = (Button)sender;
+
+            clienteSelecionado = (Cliente)botaoClicado.DataContext;
+
+            clienteTextBox.Text = $"{clienteSelecionado.Nome} - {clienteSelecionado.Cpf}";
+
+            contasTabItem.Focus();
+        }
+
+        private void tipoContaComboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            var tipoConta = (TipoConta)tipoContaComboBox.SelectedItem;
+
+            if (tipoConta == TipoConta.ContaEspecial)
+            {
+                // deixar a opcao de limite habilitado
+                limiteDockPanel.Visibility = Visibility.Visible;
+                // Nesse caso a baixo deixa ja o | na box para digitar o limite
+                limiteTextBox.Focus();
+            }
+            else
+            {
+                // nesse caso sera escondido essa box para colocar o limite
+                limiteDockPanel.Visibility = Visibility.Collapsed;
+            }
         }
     }
 }
