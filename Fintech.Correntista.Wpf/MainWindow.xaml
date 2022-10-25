@@ -7,11 +7,27 @@
         mc:Ignorable="d"
         Title="Fintech" WindowState="Maximized" d:DesignWidth="788.117" d:DesignHeight="436.88">
     <TabControl>
-        <TabItem Header="Clientes" Height="35px" Width="70px">
+        <TabItem Header="Clientes" Name="clientesTabItem" Height="35px" Width="70px">
             <TabControl TabStripPlacement="Left">
                 <TabItem Header="Pesquisa" Name="pesquisaClienteTabItem">
-                    <DataGrid x:Name="clienteDataGrid" AutoGenerateColumns="True" IsReadOnly="True" CanUserAddRows="False" CanUserResizeColumns="False" CanUserResizeRows="False" CanUserReorderColumns="False">
+                    <DataGrid x:Name="clienteDataGrid" AutoGenerateColumns="False" IsReadOnly="True" CanUserAddRows="False" CanUserResizeColumns="False" CanUserResizeRows="False" CanUserReorderColumns="False">
                         <DataGrid.Columns>
+                            <DataGridTextColumn Header="Nome" Binding="{Binding Path=Nome}"/>
+                            <DataGridTextColumn Header="CPF" Binding="{Binding Path=Cpf}"/>
+                            <DataGridTextColumn Header="Sexo" Binding="{Binding Path=Sexo}"/>
+                            <DataGridTextColumn Header="Data Nascimento" Binding="{Binding Path=DataNascimento}"/>
+                            <DataGridTextColumn Header="Logradouro" Binding="{Binding Path=EnderecoResidencial.Logradouro}"/>
+                            <DataGridTextColumn Header="Numero" Binding="{Binding Path=EnderecoResidencial.Numero}"/>
+                            <DataGridTextColumn Header="Complemento" Binding="{Binding Path=EnderecoResidencial.Complemento}"/>
+                            <DataGridTextColumn Header="Cidade" Binding="{Binding Path=EnderecoResidencial.Cidade}"/>
+                            <DataGridTextColumn Header="Cep" Binding="{Binding Path=EnderecoResidencial.Cep}"/>
+                            <DataGridTemplateColumn Header="Contas" >
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <ComboBox ItemsSource="{Binding Contas}" DisplayMemberPath="Numero"/>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
                             <DataGridTemplateColumn>
                                 <DataGridTemplateColumn.CellTemplate>
                                     <DataTemplate>
@@ -19,6 +35,7 @@
                                     </DataTemplate>
                                 </DataGridTemplateColumn.CellTemplate>
                             </DataGridTemplateColumn>
+                            
                         </DataGrid.Columns>
                     </DataGrid>
                 </TabItem>
@@ -107,7 +124,14 @@ Height="23" TextWrapping="NoWrap" />
                     <TextBox Name="limiteTextBox" Width="150" HorizontalAlignment="Left" VerticalContentAlignment="Center" Height="23" TextWrapping="NoWrap" />
                 </DockPanel>
                 <DockPanel>
-                    <Button Name="incluirContaButton" Content="Incluir" Margin="120 2 0 0" Height="23" HorizontalAlignment="Left" Width="150"/>
+                    <Button 
+                        Name="incluirContaButton" 
+                        Content="Incluir" 
+                        Margin="120 2 0 0" 
+                        Height="23" 
+                        HorizontalAlignment="Left" 
+                        Width="150"
+                        Click="incluirContaButton_Click"/>
                 </DockPanel>
             </StackPanel>
         </TabItem>

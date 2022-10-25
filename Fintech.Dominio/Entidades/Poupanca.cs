@@ -3,6 +3,13 @@
     // Conta Classe Mae uma herança
     public class Poupanca : Conta
     {
+        public Poupanca(Agencia agencia, int numero, string digitoVerificador) : base(agencia, numero, digitoVerificador)
+        {
+            //Agencia = agencia;
+            //Numero = numero;
+            //DigitoVerificador = digitoVerificador;
+        }
+
         // construtor ctor podendo ser usado assim ou como abaixo 
         //public Poupanca()
         //{
