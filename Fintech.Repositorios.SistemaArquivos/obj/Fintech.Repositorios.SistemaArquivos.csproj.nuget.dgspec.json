@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Repositorios.SistemaArquivos\\Fintech.Repositorios.SistemaArquivos.csproj": {}
+  },
+  "projects": {
+    "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Dominio\\Fintech.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Dominio\\Fintech.Dominio.csproj",
+        "projectName": "Fintech.Dominio",
+        "projectPath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Dominio\\Fintech.Dominio.csproj",
+        "packagesPath": "C:\\Users\\leo_l\\.nuget\\packages\\",
+        "outputPath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leo_l\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Repositorios.SistemaArquivos\\Fintech.Repositorios.SistemaArquivos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Repositorios.SistemaArquivos\\Fintech.Repositorios.SistemaArquivos.csproj",
+        "projectName": "Fintech.Repositorios.SistemaArquivos",
+        "projectPath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Repositorios.SistemaArquivos\\Fintech.Repositorios.SistemaArquivos.csproj",
+        "packagesPath": "C:\\Users\\leo_l\\.nuget\\packages\\",
+        "outputPath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Repositorios.SistemaArquivos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leo_l\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Dominio\\Fintech.Dominio.csproj": {
+                "projectPath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Dominio\\Fintech.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

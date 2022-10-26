@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Fintech.Repositorios.SistemaArquivos/1.0.0": {
+        "dependencies": {
+          "Fintech.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "Fintech.Repositorios.SistemaArquivos.dll": {}
+        }
+      },
+      "Fintech.Dominio/1.0.0": {
+        "runtime": {
+          "Fintech.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fintech.Repositorios.SistemaArquivos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Fintech.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Repositorios.SistemaArquivos\bin\Debug\net5.0\Fintech.Repositorios.SistemaArquivos.deps.json
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Repositorios.SistemaArquivos\bin\Debug\net5.0\Fintech.Repositorios.SistemaArquivos.dll
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Repositorios.SistemaArquivos\bin\Debug\net5.0\ref\Fintech.Repositorios.SistemaArquivos.dll
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Repositorios.SistemaArquivos\bin\Debug\net5.0\Fintech.Repositorios.SistemaArquivos.pdb
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Repositorios.SistemaArquivos\bin\Debug\net5.0\Fintech.Dominio.dll
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Repositorios.SistemaArquivos\bin\Debug\net5.0\Fintech.Dominio.pdb
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Repositorios.SistemaArquivos\obj\Debug\net5.0\Fintech.Repositorios.SistemaArquivos.csproj.AssemblyReference.cache
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Repositorios.SistemaArquivos\obj\Debug\net5.0\Fintech.Repositorios.SistemaArquivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Repositorios.SistemaArquivos\obj\Debug\net5.0\Fintech.Repositorios.SistemaArquivos.AssemblyInfoInputs.cache
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Repositorios.SistemaArquivos\obj\Debug\net5.0\Fintech.Repositorios.SistemaArquivos.AssemblyInfo.cs
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Repositorios.SistemaArquivos\obj\Debug\net5.0\Fintech.Repositorios.SistemaArquivos.csproj.CoreCompileInputs.cache
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Repositorios.SistemaArquivos\obj\Debug\net5.0\Fintech.Repositorios.SistemaArquivos.csproj.CopyComplete
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Repositorios.SistemaArquivos\obj\Debug\net5.0\Fintech.Repositorios.SistemaArquivos.dll
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Repositorios.SistemaArquivos\obj\Debug\net5.0\ref\Fintech.Repositorios.SistemaArquivos.dll
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Repositorios.SistemaArquivos\obj\Debug\net5.0\Fintech.Repositorios.SistemaArquivos.pdb
