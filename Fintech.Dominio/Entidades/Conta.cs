@@ -1,5 +1,7 @@
 ﻿
 
+using System.Collections.Generic;
+
 namespace Fintech.Dominio.Entidades
 {
     // base class - Classe Base Conta - Super Classe
@@ -19,12 +21,15 @@ namespace Fintech.Dominio.Entidades
         public decimal Saldo  { get; set; }
         public Agencia Agencia { get; set; }
         public Cliente Cliente { get; set; }
+        public List<Movimento> Movimentos { get; set; } = new List<Movimento>();
 
 
         //Pode ser que as classes derivadas possam sobrescrever esse metodo , porem nao é nescessario  !
         // E esse virtual serve para isso apenas na classe mae !
-        public virtual void EfetuarOperacao(decimal valor, TipoOperacao TipoOperacao)
+        public virtual void EfetuarOperacao(decimal valor, TipoOperacao TipoOperacao, decimal limite = 0)
         {
+            var sucesso = true;
+
             switch (TipoOperacao)
             {
                 case TipoOperacao.Deposito:
@@ -32,15 +37,19 @@ namespace Fintech.Dominio.Entidades
                     //Saldo = Saldo + valor;
                     break;
                 case TipoOperacao.Saque:
-                    if (Saldo >= valor)
+                    if (Saldo + limite >= valor)
                     {
                         Saldo -= valor; 
                     }
-                    //Saldo = Saldo - valor;
-                    break;
-                default:
+                    else
+                    {
+                        sucesso = false;
+                    }
                     break;
             }
+
+            if(sucesso) Movimentos.Add(new Movimento(valor, TipoOperacao));
+
         }
 
     }

@@ -17,24 +17,9 @@ namespace Fintech.Dominio.Entidades
 
 
         //esse override e feito para subistituir o que vem da classe mae !
-        public override void EfetuarOperacao(decimal valor, TipoOperacao TipoOperacao)
+        public override void EfetuarOperacao(decimal valor, TipoOperacao TipoOperacao, decimal limite = 0)
         {
-            switch (TipoOperacao)
-            {
-                case TipoOperacao.Deposito:
-                    Saldo += valor;
-                    //Saldo = Saldo + valor;
-                    break;
-                case TipoOperacao.Saque:
-                    if (Saldo + Limite >= valor)
-                    {
-                        Saldo -= valor;
-                    }
-                    //Saldo = Saldo - valor;
-                    break;
-                default:
-                    break;
-            }
+            base.EfetuarOperacao(valor, TipoOperacao, Limite);
         }
     }
 }
