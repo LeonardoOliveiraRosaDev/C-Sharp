@@ -10,6 +10,20 @@ namespace Fintech.Dominio.Entidades
             TipoOperacao = tipoOperacao;
         }
 
+        public Movimento(decimal valor, TipoOperacao tipoOperacao, Conta conta)
+        {
+            Valor = valor;
+            TipoOperacao = tipoOperacao;
+            Conta = conta;
+        }
+
+        public Movimento(decimal valor, TipoOperacao tipoOperacao, DateTime data)
+        {
+            Valor = valor;
+            TipoOperacao = tipoOperacao;
+            Data = data;
+        }
+
         public int Id { get; set; }
         public Guid Guid { get; set; } = Guid.NewGuid();
         public DateTime Data { get; set; } = DateTime.Now;

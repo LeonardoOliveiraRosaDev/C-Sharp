@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v5.0": {
       "Fintech.Correntista.Wpf/1.0.0": {
         "dependencies": {
-          "Fintech.Dominio": "1.0.0"
+          "Fintech.Dominio": "1.0.0",
+          "Fintech.Repositorios.SistemaArquivos": "1.0.0"
         },
         "runtime": {
           "Fintech.Correntista.Wpf.dll": {}
@@ -17,6 +18,14 @@
       "Fintech.Dominio/1.0.0": {
         "runtime": {
           "Fintech.Dominio.dll": {}
+        }
+      },
+      "Fintech.Repositorios.SistemaArquivos/1.0.0": {
+        "dependencies": {
+          "Fintech.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "Fintech.Repositorios.SistemaArquivos.dll": {}
         }
       }
     }
@@ -28,6 +37,11 @@
       "sha512": ""
     },
     "Fintech.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Fintech.Repositorios.SistemaArquivos/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

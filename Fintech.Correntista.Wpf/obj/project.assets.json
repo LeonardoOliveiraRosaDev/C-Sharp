@@ -11,6 +11,19 @@
         "runtime": {
           "bin/placeholder/Fintech.Dominio.dll": {}
         }
+      },
+      "Fintech.Repositorios.SistemaArquivos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Fintech.Dominio": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Fintech.Repositorios.SistemaArquivos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Fintech.Repositorios.SistemaArquivos.dll": {}
+        }
       }
     }
   },
@@ -19,11 +32,17 @@
       "type": "project",
       "path": "../Fintech.Dominio/Fintech.Dominio.csproj",
       "msbuildProject": "../Fintech.Dominio/Fintech.Dominio.csproj"
+    },
+    "Fintech.Repositorios.SistemaArquivos/1.0.0": {
+      "type": "project",
+      "path": "../Fintech.Repositorios.SistemaArquivos/Fintech.Repositorios.SistemaArquivos.csproj",
+      "msbuildProject": "../Fintech.Repositorios.SistemaArquivos/Fintech.Repositorios.SistemaArquivos.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0-windows7.0": [
-      "Fintech.Dominio >= 1.0.0"
+      "Fintech.Dominio >= 1.0.0",
+      "Fintech.Repositorios.SistemaArquivos >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -55,6 +74,9 @@
           "projectReferences": {
             "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Dominio\\Fintech.Dominio.csproj": {
               "projectPath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Dominio\\Fintech.Dominio.csproj"
+            },
+            "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Repositorios.SistemaArquivos\\Fintech.Repositorios.SistemaArquivos.csproj": {
+              "projectPath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Repositorios.SistemaArquivos\\Fintech.Repositorios.SistemaArquivos.csproj"
             }
           }
         }

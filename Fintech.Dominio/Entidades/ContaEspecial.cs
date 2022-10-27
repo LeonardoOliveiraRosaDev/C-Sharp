@@ -17,9 +17,9 @@ namespace Fintech.Dominio.Entidades
 
 
         //esse override e feito para subistituir o que vem da classe mae !
-        public override void EfetuarOperacao(decimal valor, TipoOperacao TipoOperacao, decimal limite = 0)
+        public override Movimento EfetuarOperacao(decimal valor, TipoOperacao TipoOperacao, decimal limite = 0)
         {
-            base.EfetuarOperacao(valor, TipoOperacao, Limite);
+            return base.EfetuarOperacao(valor, TipoOperacao, Limite);
         }
     }
 }

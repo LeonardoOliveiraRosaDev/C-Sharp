@@ -23,3 +23,5 @@ D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Correntista
 D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Correntista.Wpf\obj\Debug\net5.0-windows\ref\Fintech.Correntista.Wpf.dll
 D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Correntista.Wpf\obj\Debug\net5.0-windows\Fintech.Correntista.Wpf.pdb
 D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Correntista.Wpf\obj\Debug\net5.0-windows\Fintech.Correntista.Wpf.genruntimeconfig.cache
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Correntista.Wpf\bin\Debug\net5.0-windows\Fintech.Repositorios.SistemaArquivos.dll
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Correntista.Wpf\bin\Debug\net5.0-windows\Fintech.Repositorios.SistemaArquivos.pdb

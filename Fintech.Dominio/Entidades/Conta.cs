@@ -26,9 +26,10 @@ namespace Fintech.Dominio.Entidades
 
         //Pode ser que as classes derivadas possam sobrescrever esse metodo , porem nao é nescessario  !
         // E esse virtual serve para isso apenas na classe mae !
-        public virtual void EfetuarOperacao(decimal valor, TipoOperacao TipoOperacao, decimal limite = 0)
+        public virtual Movimento EfetuarOperacao(decimal valor, TipoOperacao TipoOperacao, decimal limite = 0)
         {
             var sucesso = true;
+            Movimento movimento = null;
 
             switch (TipoOperacao)
             {
@@ -48,8 +49,12 @@ namespace Fintech.Dominio.Entidades
                     break;
             }
 
-            if(sucesso) Movimentos.Add(new Movimento(valor, TipoOperacao));
-
+            if (sucesso) 
+            {
+                movimento = new Movimento(valor, TipoOperacao, this);
+                Movimentos.Add(movimento); 
+            }
+            return movimento;
         }
 
     }
