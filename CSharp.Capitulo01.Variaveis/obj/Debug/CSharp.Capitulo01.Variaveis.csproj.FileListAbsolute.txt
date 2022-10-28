@@ -19,3 +19,13 @@ C:\Users\leo_l\Documents\CSharp\CSharp\CSharp.Capitulo01.Variaveis\obj\Debug\CSh
 C:\Users\leo_l\Documents\CSharp\CSharp\CSharp.Capitulo01.Variaveis\obj\Debug\CSharp-Variaveis.exe
 C:\Users\leo_l\Documents\CSharp\CSharp\CSharp.Capitulo01.Variaveis\obj\Debug\CSharp-Variaveis.pdb
 D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\CSharp.Capitulo01.Variaveis\obj\Debug\CSharp.Capitulo01.Variaveis.csproj.AssemblyReference.cache
+C:\Users\leo_l\Source\Repos\C-Sharp\CSharp.Capitulo01.Variaveis\bin\Debug\CSharp-Variaveis.exe.config
+C:\Users\leo_l\Source\Repos\C-Sharp\CSharp.Capitulo01.Variaveis\bin\Debug\CSharp-Variaveis.exe
+C:\Users\leo_l\Source\Repos\C-Sharp\CSharp.Capitulo01.Variaveis\bin\Debug\CSharp-Variaveis.pdb
+C:\Users\leo_l\Source\Repos\C-Sharp\CSharp.Capitulo01.Variaveis\obj\Debug\CSharp.Capitulo01.Variaveis.csproj.AssemblyReference.cache
+C:\Users\leo_l\Source\Repos\C-Sharp\CSharp.Capitulo01.Variaveis\obj\Debug\CSharp.Capitulo01.Variaveis.VariaveisForm.resources
+C:\Users\leo_l\Source\Repos\C-Sharp\CSharp.Capitulo01.Variaveis\obj\Debug\CSharp.Capitulo01.Variaveis.Properties.Resources.resources
+C:\Users\leo_l\Source\Repos\C-Sharp\CSharp.Capitulo01.Variaveis\obj\Debug\CSharp.Capitulo01.Variaveis.csproj.GenerateResource.cache
+C:\Users\leo_l\Source\Repos\C-Sharp\CSharp.Capitulo01.Variaveis\obj\Debug\CSharp.Capitulo01.Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\leo_l\Source\Repos\C-Sharp\CSharp.Capitulo01.Variaveis\obj\Debug\CSharp-Variaveis.exe
+C:\Users\leo_l\Source\Repos\C-Sharp\CSharp.Capitulo01.Variaveis\obj\Debug\CSharp-Variaveis.pdb

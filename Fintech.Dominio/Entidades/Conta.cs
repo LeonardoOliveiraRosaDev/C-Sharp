@@ -1,6 +1,7 @@
 ﻿
 
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Fintech.Dominio.Entidades
 {
@@ -18,17 +19,33 @@ namespace Fintech.Dominio.Entidades
         public int Id { get; set; }
         public int Numero { get; set; }
         public string DigitoVerificador { get; set; }
-        public decimal Saldo  { get; set; }
+        public decimal Saldo  
+        {
+            get => TotalDeposito - TotalSaque;
+            private set { }
+        }
         public Agencia Agencia { get; set; }
         public Cliente Cliente { get; set; }
         public List<Movimento> Movimentos { get; set; } = new List<Movimento>();
+        public decimal TotalDeposito 
+        {
+            get //obter
+            { // instruções
+                return Movimentos.Where(m => m.TipoOperacao == TipoOperacao.Deposito).Sum(m => m.Valor);
+            }
+            //set;
+        }
+        public decimal TotalSaque => Movimentos.Where(m => m.TipoOperacao == TipoOperacao.Saque).Sum(m => m.Valor);
+
+
 
 
         //Pode ser que as classes derivadas possam sobrescrever esse metodo , porem nao é nescessario  !
         // E esse virtual serve para isso apenas na classe mae !
         public virtual Movimento EfetuarOperacao(decimal valor, TipoOperacao TipoOperacao, decimal limite = 0)
         {
-            var sucesso = true;
+           // var sucesso = true;
+            
             Movimento movimento = null;
 
             switch (TipoOperacao)
@@ -44,16 +61,15 @@ namespace Fintech.Dominio.Entidades
                     }
                     else
                     {
-                        sucesso = false;
+                        throw new SaldoInsuficienteException();
                     }
                     break;
             }
 
-            if (sucesso) 
-            {
+            
                 movimento = new Movimento(valor, TipoOperacao, this);
                 Movimentos.Add(movimento); 
-            }
+           
             return movimento;
         }
 

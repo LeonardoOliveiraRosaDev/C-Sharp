@@ -25,3 +25,30 @@ D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Correntista
 D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Correntista.Wpf\obj\Debug\net5.0-windows\Fintech.Correntista.Wpf.genruntimeconfig.cache
 D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Correntista.Wpf\bin\Debug\net5.0-windows\Fintech.Repositorios.SistemaArquivos.dll
 D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Correntista.Wpf\bin\Debug\net5.0-windows\Fintech.Repositorios.SistemaArquivos.pdb
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Correntista.Wpf\bin\Debug\net5.0-windows\Fintech.Correntista.Wpf.exe
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Correntista.Wpf\bin\Debug\net5.0-windows\Fintech.Correntista.Wpf.deps.json
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Correntista.Wpf\bin\Debug\net5.0-windows\Fintech.Correntista.Wpf.runtimeconfig.json
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Correntista.Wpf\bin\Debug\net5.0-windows\Fintech.Correntista.Wpf.runtimeconfig.dev.json
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Correntista.Wpf\bin\Debug\net5.0-windows\Fintech.Correntista.Wpf.dll
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Correntista.Wpf\bin\Debug\net5.0-windows\ref\Fintech.Correntista.Wpf.dll
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Correntista.Wpf\bin\Debug\net5.0-windows\Fintech.Correntista.Wpf.pdb
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Correntista.Wpf\bin\Debug\net5.0-windows\Fintech.Dominio.dll
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Correntista.Wpf\bin\Debug\net5.0-windows\Fintech.Repositorios.SistemaArquivos.dll
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Correntista.Wpf\bin\Debug\net5.0-windows\Fintech.Dominio.pdb
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Correntista.Wpf\bin\Debug\net5.0-windows\Fintech.Repositorios.SistemaArquivos.pdb
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Correntista.Wpf\obj\Debug\net5.0-windows\Fintech.Correntista.Wpf.csproj.AssemblyReference.cache
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Correntista.Wpf\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Correntista.Wpf\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Correntista.Wpf\obj\Debug\net5.0-windows\Fintech.Correntista.Wpf_MarkupCompile.cache
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Correntista.Wpf\obj\Debug\net5.0-windows\Fintech.Correntista.Wpf_MarkupCompile.lref
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Correntista.Wpf\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Correntista.Wpf\obj\Debug\net5.0-windows\Fintech.Correntista.Wpf.g.resources
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Correntista.Wpf\obj\Debug\net5.0-windows\Fintech.Correntista.Wpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Correntista.Wpf\obj\Debug\net5.0-windows\Fintech.Correntista.Wpf.AssemblyInfoInputs.cache
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Correntista.Wpf\obj\Debug\net5.0-windows\Fintech.Correntista.Wpf.AssemblyInfo.cs
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Correntista.Wpf\obj\Debug\net5.0-windows\Fintech.Correntista.Wpf.csproj.CoreCompileInputs.cache
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Correntista.Wpf\obj\Debug\net5.0-windows\Fintech.Correntista.Wpf.csproj.CopyComplete
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Correntista.Wpf\obj\Debug\net5.0-windows\Fintech.Correntista.Wpf.dll
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Correntista.Wpf\obj\Debug\net5.0-windows\ref\Fintech.Correntista.Wpf.dll
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Correntista.Wpf\obj\Debug\net5.0-windows\Fintech.Correntista.Wpf.pdb
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Correntista.Wpf\obj\Debug\net5.0-windows\Fintech.Correntista.Wpf.genruntimeconfig.cache

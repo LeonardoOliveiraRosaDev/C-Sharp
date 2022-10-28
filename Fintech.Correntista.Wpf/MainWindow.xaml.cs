@@ -2,6 +2,7 @@
 using Fintech.Repositorios.SistemaArquivos;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -26,8 +27,9 @@ namespace Fintech.Correntista.Wpf
         // disponibilizar esses elesmentos para todos os metodos dessa classe
         // Campos Privados por isso o uso de privates existe apenas dentro dessa classe por isso um field !
 
-        private List<Cliente> clientes = new();
+        private readonly List<Cliente> clientes = new();
         private Cliente clienteSelecionado;
+        private readonly MovimentoRepositorio movimentoRepositorio = new MovimentoRepositorio(Properties.Settings.Default.CaminhoArquivoMovimento);
 
         public MainWindow()
         {
@@ -52,12 +54,12 @@ namespace Fintech.Correntista.Wpf
             banco1.Numero = 206;
             bancoComboBox.Items.Add(banco1);
 
-           // mesma forma da instancia de cima porem in line !
-            bancoComboBox.Items.Add(new Banco {Nome = "Banco 2", Numero = 211});
+            // mesma forma da instancia de cima porem in line !
+            bancoComboBox.Items.Add(new Banco { Nome = "Banco 2", Numero = 211 });
 
             operacaoComboBox.Items.Add(TipoOperacao.Deposito);
             operacaoComboBox.Items.Add(TipoOperacao.Saque);
-           
+
         }
 
         private void incluirClienteButton_Click(object sender, RoutedEventArgs e)
@@ -214,28 +216,62 @@ namespace Fintech.Correntista.Wpf
         private void contaComboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             if (contaComboBox.SelectedItem == null) return;
-        
+
             var conta = (Conta)contaComboBox.SelectedItem;
+
+            conta.Movimentos = movimentoRepositorio.Selecionar(conta.Agencia.Numero, conta.Numero);
+
             movimentacaoDataGrid.ItemsSource = conta.Movimentos;
             saldoTextBox.Text = conta.Saldo.ToString("C");
         }
 
         private void incluirOperacaoButton_Click(object sender, RoutedEventArgs e)
         {
-            var conta = (Conta)contaComboBox.SelectedItem;
-            var operacao = (TipoOperacao)operacaoComboBox.SelectedItem;
-            var valor = Convert.ToDecimal(valorTextBox.Text);
+            try
+            {
+                var conta = (Conta)contaComboBox.SelectedItem;
+                var operacao = (TipoOperacao)operacaoComboBox.SelectedItem;
+                var valor = Convert.ToDecimal(valorTextBox.Text);
 
-            var movimento = conta.EfetuarOperacao(valor, operacao);
+                var movimento = conta.EfetuarOperacao(valor, operacao);
 
-            MovimentoRepositorio movimentoRepositorio = new MovimentoRepositorio("Dados\\Movimento.txt");
 
-            movimentoRepositorio.Inserir(movimento);
 
-            movimentacaoDataGrid.ItemsSource = conta.Movimentos;
-            movimentacaoDataGrid.Items.Refresh();
+                movimentoRepositorio.Inserir(movimento);
 
-            saldoTextBox.Text = conta.Saldo.ToString("C");
+                movimentacaoDataGrid.ItemsSource = conta.Movimentos;
+                movimentacaoDataGrid.Items.Refresh();
+
+                saldoTextBox.Text = conta.Saldo.ToString("C");
+            }
+
+            catch (FileNotFoundException ex)
+            {
+                MessageBox.Show($"O arquivo {ex.FileName} não foi encontrado !");
+            }
+
+            catch (DirectoryNotFoundException ex)
+            {
+                MessageBox.Show($"O diretório {Properties.Settings.Default.CaminhoArquivoMovimento} não foi encontrado ");
+            }
+
+            catch (SaldoInsuficienteException ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+
+            catch (Exception excecao)
+            {
+
+                MessageBox.Show("Eita! Algo deu errado em breve teremos uma solução.");
+                //Logar(execao);//log4Net
+            }
+
+
+            finally
+            {
+                // é sempre executado , mesmo que haja um return no código !
+            }
         }
     }
 }

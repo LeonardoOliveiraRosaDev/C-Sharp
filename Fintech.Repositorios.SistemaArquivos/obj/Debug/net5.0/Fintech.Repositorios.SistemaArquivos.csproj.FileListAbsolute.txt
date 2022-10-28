@@ -13,3 +13,18 @@ D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Repositorio
 D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Repositorios.SistemaArquivos\obj\Debug\net5.0\Fintech.Repositorios.SistemaArquivos.dll
 D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Repositorios.SistemaArquivos\obj\Debug\net5.0\ref\Fintech.Repositorios.SistemaArquivos.dll
 D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Repositorios.SistemaArquivos\obj\Debug\net5.0\Fintech.Repositorios.SistemaArquivos.pdb
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Repositorios.SistemaArquivos\bin\Debug\net5.0\Fintech.Repositorios.SistemaArquivos.deps.json
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Repositorios.SistemaArquivos\bin\Debug\net5.0\Fintech.Repositorios.SistemaArquivos.dll
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Repositorios.SistemaArquivos\bin\Debug\net5.0\ref\Fintech.Repositorios.SistemaArquivos.dll
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Repositorios.SistemaArquivos\bin\Debug\net5.0\Fintech.Repositorios.SistemaArquivos.pdb
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Repositorios.SistemaArquivos\bin\Debug\net5.0\Fintech.Dominio.dll
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Repositorios.SistemaArquivos\bin\Debug\net5.0\Fintech.Dominio.pdb
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Repositorios.SistemaArquivos\obj\Debug\net5.0\Fintech.Repositorios.SistemaArquivos.csproj.AssemblyReference.cache
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Repositorios.SistemaArquivos\obj\Debug\net5.0\Fintech.Repositorios.SistemaArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Repositorios.SistemaArquivos\obj\Debug\net5.0\Fintech.Repositorios.SistemaArquivos.AssemblyInfoInputs.cache
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Repositorios.SistemaArquivos\obj\Debug\net5.0\Fintech.Repositorios.SistemaArquivos.AssemblyInfo.cs
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Repositorios.SistemaArquivos\obj\Debug\net5.0\Fintech.Repositorios.SistemaArquivos.csproj.CoreCompileInputs.cache
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Repositorios.SistemaArquivos\obj\Debug\net5.0\Fintech.Repositorios.SistemaArquivos.csproj.CopyComplete
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Repositorios.SistemaArquivos\obj\Debug\net5.0\Fintech.Repositorios.SistemaArquivos.dll
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Repositorios.SistemaArquivos\obj\Debug\net5.0\ref\Fintech.Repositorios.SistemaArquivos.dll
+C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Repositorios.SistemaArquivos\obj\Debug\net5.0\Fintech.Repositorios.SistemaArquivos.pdb
