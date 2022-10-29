@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "a4OS9qSr5RDQjzcYQoFX9jUfAqjWN+u0I57fUxeQOP9jPIlNuLeHmMk8xv6X3GZbWabOM7zYF5OS+yZiewIdgg==",
+  "dgSpecHash": "2I0eFOQAEL8pFEFgl+Os5ZTH4A+Gsb/IXpS1jrVlxUX4UVhXLdhdhCWokkcpblfeVbRrs4hmgQZL/h/xGUZQLg==",
   "success": true,
   "projectFilePath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Correntista.Wpf\\Fintech.Correntista.Wpf.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\leo_l\\.nuget\\packages\\fontawesome5\\2.1.11\\fontawesome5.2.1.11.nupkg.sha512"
+  ],
   "logs": []
 }

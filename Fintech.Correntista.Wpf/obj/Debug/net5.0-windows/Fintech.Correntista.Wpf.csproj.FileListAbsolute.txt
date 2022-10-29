@@ -52,3 +52,5 @@ C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Correntista.Wpf\obj\Debug\net5.0-win
 C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Correntista.Wpf\obj\Debug\net5.0-windows\ref\Fintech.Correntista.Wpf.dll
 C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Correntista.Wpf\obj\Debug\net5.0-windows\Fintech.Correntista.Wpf.pdb
 C:\Users\leo_l\Source\Repos\C-Sharp\Fintech.Correntista.Wpf\obj\Debug\net5.0-windows\Fintech.Correntista.Wpf.genruntimeconfig.cache
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Correntista.Wpf\bin\Debug\net5.0-windows\FontAwesome5.Net.dll
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Correntista.Wpf\bin\Debug\net5.0-windows\FontAwesome5.dll
