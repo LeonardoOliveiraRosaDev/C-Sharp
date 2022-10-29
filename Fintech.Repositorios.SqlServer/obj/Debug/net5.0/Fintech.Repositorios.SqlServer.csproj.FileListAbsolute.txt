@@ -1,0 +1,12 @@
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Repositorios.SqlServer\bin\Debug\net5.0\Fintech.Repositorios.SqlServer.deps.json
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Repositorios.SqlServer\bin\Debug\net5.0\Fintech.Repositorios.SqlServer.dll
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Repositorios.SqlServer\bin\Debug\net5.0\ref\Fintech.Repositorios.SqlServer.dll
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Repositorios.SqlServer\bin\Debug\net5.0\Fintech.Repositorios.SqlServer.pdb
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Repositorios.SqlServer\obj\Debug\net5.0\Fintech.Repositorios.SqlServer.csproj.AssemblyReference.cache
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Repositorios.SqlServer\obj\Debug\net5.0\Fintech.Repositorios.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Repositorios.SqlServer\obj\Debug\net5.0\Fintech.Repositorios.SqlServer.AssemblyInfoInputs.cache
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Repositorios.SqlServer\obj\Debug\net5.0\Fintech.Repositorios.SqlServer.AssemblyInfo.cs
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Repositorios.SqlServer\obj\Debug\net5.0\Fintech.Repositorios.SqlServer.csproj.CoreCompileInputs.cache
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Repositorios.SqlServer\obj\Debug\net5.0\Fintech.Repositorios.SqlServer.dll
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Repositorios.SqlServer\obj\Debug\net5.0\ref\Fintech.Repositorios.SqlServer.dll
+D:\Curso Impacta\DESENVOLVEDOR FULL STACK\Curso CSharp C#\C-\Fintech.Repositorios.SqlServer\obj\Debug\net5.0\Fintech.Repositorios.SqlServer.pdb

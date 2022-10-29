@@ -1,4 +1,5 @@
 ﻿using Fintech.Dominio.Entidades;
+using Fintech.Dominio.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -7,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Fintech.Repositorios.SistemaArquivos
 {
-    public class MovimentoRepositorio
+    public class MovimentoRepositorio : IMovimentoRepositorio
     {
         public MovimentoRepositorio(string caminho)
         {
@@ -62,8 +63,8 @@ namespace Fintech.Repositorios.SistemaArquivos
 
         public async Task<List<Movimento>> SelecionarAsync(int numeroAgencia, int numeroConta)
         {
-             await Task.Delay(5000);
-            
+            await Task.Delay(5000);
+
             var movimentos = new List<Movimento>();
 
             foreach (var linha in await File.ReadAllLinesAsync(Caminho))
