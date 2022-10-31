@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
+// Interface
 namespace Fintech.Dominio.Interfaces
 {
     public interface IMovimentoRepositorio
