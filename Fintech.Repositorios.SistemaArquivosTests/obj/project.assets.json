@@ -6153,11 +6153,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Repositorios.SistemaArquivosTests\\Fintech.Repositorios.SistemaArquivosTests.csproj",
+      "projectUniqueName": "C:\\Users\\leo_l\\Desktop\\C-\\Fintech.Repositorios.SistemaArquivosTests\\Fintech.Repositorios.SistemaArquivosTests.csproj",
       "projectName": "Fintech.Repositorios.SistemaArquivosTests",
-      "projectPath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Repositorios.SistemaArquivosTests\\Fintech.Repositorios.SistemaArquivosTests.csproj",
+      "projectPath": "C:\\Users\\leo_l\\Desktop\\C-\\Fintech.Repositorios.SistemaArquivosTests\\Fintech.Repositorios.SistemaArquivosTests.csproj",
       "packagesPath": "C:\\Users\\leo_l\\.nuget\\packages\\",
-      "outputPath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Repositorios.SistemaArquivosTests\\obj\\",
+      "outputPath": "C:\\Users\\leo_l\\Desktop\\C-\\Fintech.Repositorios.SistemaArquivosTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leo_l\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6174,8 +6174,8 @@
         "net5.0": {
           "targetAlias": ".NETCoreApp,Version=v5.0",
           "projectReferences": {
-            "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Repositorios.SistemaArquivos\\Fintech.Repositorios.SistemaArquivos.csproj": {
-              "projectPath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Repositorios.SistemaArquivos\\Fintech.Repositorios.SistemaArquivos.csproj"
+            "C:\\Users\\leo_l\\Desktop\\C-\\Fintech.Repositorios.SistemaArquivos\\Fintech.Repositorios.SistemaArquivos.csproj": {
+              "projectPath": "C:\\Users\\leo_l\\Desktop\\C-\\Fintech.Repositorios.SistemaArquivos\\Fintech.Repositorios.SistemaArquivos.csproj"
             }
           }
         }
@@ -6222,7 +6222,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9jruV3duU2di7NdgzQyaTC7s9rj0BYgD21UmBlhJwexH4tP5Wv2RLy+Re0UgQYHY/IhUKFg7AjSC37frEfOF4Q==",
+  "dgSpecHash": "NNr0pijE+BtOl4ZqT/7UAFZ8qA9hGzOhP3qTIaRpySSBnX+rE9fATmqpn/XtPM5w03rIuNJkdat6ZIgi2CS6Lw==",
   "success": true,
-  "projectFilePath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\CSharp.Capitulo02.EstruturasControle.Testes\\CSharp.Capitulo02.EstruturasControle.Testes.csproj",
+  "projectFilePath": "C:\\Users\\leo_l\\Desktop\\C-\\CSharp.Capitulo02.EstruturasControle.Testes\\CSharp.Capitulo02.EstruturasControle.Testes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leo_l\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\leo_l\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

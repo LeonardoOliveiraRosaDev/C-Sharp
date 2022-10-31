@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v2bmWPI+zn3DfvoPLJr/xXfPQvkR+crNqAXorRpLUFs7r0BHhjG1PaHhCeKWvR54fU5T5n8IX8P2dLOHFYL6IQ==",
+  "dgSpecHash": "wTfTmgG1zrMLeO7vuXDYFY23KR+3QCWxCamPykNEInvrKML6oozB3H37P8+u9daWUm0tVmJ+p5xwdcBI0o23ow==",
   "success": true,
-  "projectFilePath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Repositorios.SistemaArquivosTests\\Fintech.Repositorios.SistemaArquivosTests.csproj",
+  "projectFilePath": "C:\\Users\\leo_l\\Desktop\\C-\\Fintech.Repositorios.SistemaArquivosTests\\Fintech.Repositorios.SistemaArquivosTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leo_l\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\leo_l\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

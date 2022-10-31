@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\CSharp.Capitulo08.Colecoes.Teste\\CSharp.Capitulo08.Colecoes.Teste.csproj": {}
+    "C:\\Users\\leo_l\\Desktop\\C-\\CSharp.Capitulo08.Colecoes.Teste\\CSharp.Capitulo08.Colecoes.Teste.csproj": {}
   },
   "projects": {
-    "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\CSharp.Capitulo08.Colecoes.Teste\\CSharp.Capitulo08.Colecoes.Teste.csproj": {
+    "C:\\Users\\leo_l\\Desktop\\C-\\CSharp.Capitulo08.Colecoes.Teste\\CSharp.Capitulo08.Colecoes.Teste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\CSharp.Capitulo08.Colecoes.Teste\\CSharp.Capitulo08.Colecoes.Teste.csproj",
+        "projectUniqueName": "C:\\Users\\leo_l\\Desktop\\C-\\CSharp.Capitulo08.Colecoes.Teste\\CSharp.Capitulo08.Colecoes.Teste.csproj",
         "projectName": "CSharp.Capitulo08.Colecoes.Teste",
-        "projectPath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\CSharp.Capitulo08.Colecoes.Teste\\CSharp.Capitulo08.Colecoes.Teste.csproj",
+        "projectPath": "C:\\Users\\leo_l\\Desktop\\C-\\CSharp.Capitulo08.Colecoes.Teste\\CSharp.Capitulo08.Colecoes.Teste.csproj",
         "packagesPath": "C:\\Users\\leo_l\\.nuget\\packages\\",
-        "outputPath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\CSharp.Capitulo08.Colecoes.Teste\\obj\\",
+        "outputPath": "C:\\Users\\leo_l\\Desktop\\C-\\CSharp.Capitulo08.Colecoes.Teste\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leo_l\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -72,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X9+lu0BMnUQms1MAkdyCuH6YR6Fst16liEz6/IJod2j2AxiiGpWYVoRZJBAfSg5NYVKVvnyJWHX/mztQEdHotA==",
+  "dgSpecHash": "p9drvaGRrISdlZZrZoTl6Xmno4yGoYW4VaI4UM0+uAlSW9Sj4ceoafVuWIz5LmRcHMHlbx8HpDXu8ZS6WH5g7Q==",
   "success": true,
-  "projectFilePath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\CSharp.Capitulo08.Colecoes.Teste\\CSharp.Capitulo08.Colecoes.Teste.csproj",
+  "projectFilePath": "C:\\Users\\leo_l\\Desktop\\C-\\CSharp.Capitulo08.Colecoes.Teste\\CSharp.Capitulo08.Colecoes.Teste.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leo_l\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\leo_l\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

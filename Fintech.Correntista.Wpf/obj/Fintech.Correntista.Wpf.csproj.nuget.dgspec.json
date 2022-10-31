@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Correntista.Wpf\\Fintech.Correntista.Wpf.csproj": {}
+    "C:\\Users\\leo_l\\Desktop\\C-\\Fintech.Correntista.Wpf\\Fintech.Correntista.Wpf.csproj": {}
   },
   "projects": {
-    "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Correntista.Wpf\\Fintech.Correntista.Wpf.csproj": {
+    "C:\\Users\\leo_l\\Desktop\\C-\\Fintech.Correntista.Wpf\\Fintech.Correntista.Wpf.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Correntista.Wpf\\Fintech.Correntista.Wpf.csproj",
+        "projectUniqueName": "C:\\Users\\leo_l\\Desktop\\C-\\Fintech.Correntista.Wpf\\Fintech.Correntista.Wpf.csproj",
         "projectName": "Fintech.Correntista.Wpf",
-        "projectPath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Correntista.Wpf\\Fintech.Correntista.Wpf.csproj",
+        "projectPath": "C:\\Users\\leo_l\\Desktop\\C-\\Fintech.Correntista.Wpf\\Fintech.Correntista.Wpf.csproj",
         "packagesPath": "C:\\Users\\leo_l\\.nuget\\packages\\",
-        "outputPath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Correntista.Wpf\\obj\\",
+        "outputPath": "C:\\Users\\leo_l\\Desktop\\C-\\Fintech.Correntista.Wpf\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leo_l\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Dominio\\Fintech.Dominio.csproj": {
-                "projectPath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Dominio\\Fintech.Dominio.csproj"
+              "C:\\Users\\leo_l\\Desktop\\C-\\Fintech.Dominio\\Fintech.Dominio.csproj": {
+                "projectPath": "C:\\Users\\leo_l\\Desktop\\C-\\Fintech.Dominio\\Fintech.Dominio.csproj"
               },
-              "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Repositorios.SistemaArquivos\\Fintech.Repositorios.SistemaArquivos.csproj": {
-                "projectPath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Repositorios.SistemaArquivos\\Fintech.Repositorios.SistemaArquivos.csproj"
+              "C:\\Users\\leo_l\\Desktop\\C-\\Fintech.Repositorios.SistemaArquivos\\Fintech.Repositorios.SistemaArquivos.csproj": {
+                "projectPath": "C:\\Users\\leo_l\\Desktop\\C-\\Fintech.Repositorios.SistemaArquivos\\Fintech.Repositorios.SistemaArquivos.csproj"
               }
             }
           }
@@ -70,18 +70,18 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Dominio\\Fintech.Dominio.csproj": {
+    "C:\\Users\\leo_l\\Desktop\\C-\\Fintech.Dominio\\Fintech.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Dominio\\Fintech.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\leo_l\\Desktop\\C-\\Fintech.Dominio\\Fintech.Dominio.csproj",
         "projectName": "Fintech.Dominio",
-        "projectPath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Dominio\\Fintech.Dominio.csproj",
+        "projectPath": "C:\\Users\\leo_l\\Desktop\\C-\\Fintech.Dominio\\Fintech.Dominio.csproj",
         "packagesPath": "C:\\Users\\leo_l\\.nuget\\packages\\",
-        "outputPath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Dominio\\obj\\",
+        "outputPath": "C:\\Users\\leo_l\\Desktop\\C-\\Fintech.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leo_l\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -124,18 +124,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Repositorios.SistemaArquivos\\Fintech.Repositorios.SistemaArquivos.csproj": {
+    "C:\\Users\\leo_l\\Desktop\\C-\\Fintech.Repositorios.SistemaArquivos\\Fintech.Repositorios.SistemaArquivos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Repositorios.SistemaArquivos\\Fintech.Repositorios.SistemaArquivos.csproj",
+        "projectUniqueName": "C:\\Users\\leo_l\\Desktop\\C-\\Fintech.Repositorios.SistemaArquivos\\Fintech.Repositorios.SistemaArquivos.csproj",
         "projectName": "Fintech.Repositorios.SistemaArquivos",
-        "projectPath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Repositorios.SistemaArquivos\\Fintech.Repositorios.SistemaArquivos.csproj",
+        "projectPath": "C:\\Users\\leo_l\\Desktop\\C-\\Fintech.Repositorios.SistemaArquivos\\Fintech.Repositorios.SistemaArquivos.csproj",
         "packagesPath": "C:\\Users\\leo_l\\.nuget\\packages\\",
-        "outputPath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Repositorios.SistemaArquivos\\obj\\",
+        "outputPath": "C:\\Users\\leo_l\\Desktop\\C-\\Fintech.Repositorios.SistemaArquivos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leo_l\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -152,8 +152,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Dominio\\Fintech.Dominio.csproj": {
-                "projectPath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\Fintech.Dominio\\Fintech.Dominio.csproj"
+              "C:\\Users\\leo_l\\Desktop\\C-\\Fintech.Dominio\\Fintech.Dominio.csproj": {
+                "projectPath": "C:\\Users\\leo_l\\Desktop\\C-\\Fintech.Dominio\\Fintech.Dominio.csproj"
               }
             }
           }
@@ -182,7 +182,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
         }
       }
     }

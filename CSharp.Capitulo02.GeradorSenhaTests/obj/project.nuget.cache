@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0VzZEcz1ORCfq7vRdmma+ur5+IXTNIqO1lz1e2/7YPa71+/65Y5cI04RsG1QxQWemdcM+Yt7bzyesXb+UjdLMg==",
+  "dgSpecHash": "QBcyc2p5shN3qY76AVMAdSUSYJF0TDhkLDFUspx56E9XkWQgn2sjuvknDbwNTzgqy6PeqI/oJw8TzBMw3YWVBg==",
   "success": true,
-  "projectFilePath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\CSharp.Capitulo02.GeradorSenhaTests\\CSharp.Capitulo02.GeradorSenhaTests.csproj",
+  "projectFilePath": "C:\\Users\\leo_l\\Desktop\\C-\\CSharp.Capitulo02.GeradorSenhaTests\\CSharp.Capitulo02.GeradorSenhaTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leo_l\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\leo_l\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

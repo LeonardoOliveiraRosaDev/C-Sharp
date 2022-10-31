@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\CSharp.Capitulo02.GeradorSenha\\CSharp.Capitulo02.GeradorSenha.csproj": {}
+    "C:\\Users\\leo_l\\Desktop\\C-\\CSharp.Capitulo02.GeradorSenha\\CSharp.Capitulo02.GeradorSenha.csproj": {}
   },
   "projects": {
-    "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\CSharp.Capitulo02.GeradorSenha\\CSharp.Capitulo02.GeradorSenha.csproj": {
+    "C:\\Users\\leo_l\\Desktop\\C-\\CSharp.Capitulo02.GeradorSenha\\CSharp.Capitulo02.GeradorSenha.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\CSharp.Capitulo02.GeradorSenha\\CSharp.Capitulo02.GeradorSenha.csproj",
+        "projectUniqueName": "C:\\Users\\leo_l\\Desktop\\C-\\CSharp.Capitulo02.GeradorSenha\\CSharp.Capitulo02.GeradorSenha.csproj",
         "projectName": "CSharp.Capitulo02.GeradorSenha",
-        "projectPath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\CSharp.Capitulo02.GeradorSenha\\CSharp.Capitulo02.GeradorSenha.csproj",
+        "projectPath": "C:\\Users\\leo_l\\Desktop\\C-\\CSharp.Capitulo02.GeradorSenha\\CSharp.Capitulo02.GeradorSenha.csproj",
         "packagesPath": "C:\\Users\\leo_l\\.nuget\\packages\\",
-        "outputPath": "D:\\Curso Impacta\\DESENVOLVEDOR FULL STACK\\Curso CSharp C#\\C-\\CSharp.Capitulo02.GeradorSenha\\obj\\",
+        "outputPath": "C:\\Users\\leo_l\\Desktop\\C-\\CSharp.Capitulo02.GeradorSenha\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leo_l\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
         }
       }
     }
